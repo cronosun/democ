@@ -1,0 +1,1 @@
+This contains the implementation of the basket. Multiple implementations that all satisfy the same interface (`lib_basket`) are possible.

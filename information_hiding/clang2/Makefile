@@ -1,0 +1,2 @@
+main: main.c lib_basket/library.h lib_basket_impl/library.h lib_basket_impl/library.c mem_initialization/mem_initializer.c mem_initialization/mem_initializer.h
+	clang -o main main.c lib_basket_impl/library.c mem_initialization/mem_initializer.c

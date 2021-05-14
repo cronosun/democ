@@ -1,0 +1,1 @@
+This code is independent of the lib-basket implementation. It's the "interface" for the basket implementation. Does not expose implementation details.

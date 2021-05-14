@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "animal.h": "c",
-        "animal_duck.h": "c"
+        "animal_duck.h": "c",
+        "library.h": "c",
+        "mem_initializer.h": "c"
     }
 }
